@@ -116,4 +116,8 @@
 			},
 		],
 	},
+"vars": {
+  "B2_BUCKET": "mailflare-msa",
+  "B2_ENDPOINT": "s3.ca-east-006.backblazeb2.com"
+},
 }
